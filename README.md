@@ -44,12 +44,14 @@ sudo apt install docker.io -y
 sudo systemctl start docker
 sudo usermod -aG docker ubuntu
 
+
 ### Step 5
 
 Cloning GitHub repo to Ec2
 
 ```bash
 git clone https://github.com/your-username/flask-aws-docker.git
+
 
 ### Step 6
 
